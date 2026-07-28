@@ -13,7 +13,7 @@ from sklearn.metrics import classification_report, accuracy_score
 
 sns.set_theme(style="whitegrid")
 
-csv_path= "C:/Users/narwa/Downloads/WA_Fn-UseC_-Telco-Customer-Churn.csv"
+csv_path = "WA_Fn-UseC_-Telco-Customer-Churn.csv""
 customers_df=pd.read_csv(csv_path)
 
 print("Dataset loaded successfully! Preview:")
