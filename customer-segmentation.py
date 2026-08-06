@@ -130,8 +130,3 @@ plot_tree(
 plt.title("Visual Decision Tree Logic Rules for Customer Churn")
 plt.show()
 
-print("\n Actionable Customer Retention Playbook")
-print("• [Action Item 1] High Monthly Charges & Short Tenure: Accounts paying high monthly bills in their first 12 months show the highest churn risk.")
-print(" Strategy: Offer promotional discounts or long-term contract lock-ins for high-bill accounts in months 1–6.")
-print("• [Action Item 2] Paperless Billing Signals: Customers with paperless billing opt-in correlate with higher turnover.")
-print(" Strategy: Target paperless billing customers with automated retention emails and digital loyalty rewards.")
